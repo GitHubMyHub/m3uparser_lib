@@ -1,0 +1,3 @@
+﻿  Main.cpp
+Main.obj : error LNK2001: Nicht aufgelöstes externes Symbol ""public: __cdecl M3UParse::M3UParse(void)" (??0M3UParse@@QEAA@XZ)".
+C:\Users\V-Windows\Documents\Visual Studio 2017\Projects\M3U-Editor-New\x64\Release\M3U-Editor-New.exe : fatal error LNK1120: 1 nicht aufgelöste Externe

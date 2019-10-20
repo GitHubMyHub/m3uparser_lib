@@ -1,0 +1,7 @@
+#EXTM3U
+#EXTINF:0,AXN HD
+http://62.210.124.106:8000/live/aplicacao/scp4ever/24.ts
+#EXTINF:0,BENFICA TV 1
+http://62.210.124.106:8000/live/aplicacao/scp4ever/15.ts
+#EXTINF:0,CMTV
+http://62.210.124.106:8000/live/aplicacao/scp4ever/9.ts

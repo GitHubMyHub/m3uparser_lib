@@ -1,0 +1,37 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tv-logo="",[COLOR orange]>> >> Portugal « «[/COLOR]
+http://0.0.0.0:1234
+
+#EXTINF:-1 tvg-id="RTP1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/RTP1_2016.png/200px-RTP1_2016.png" group-title="PORTUGAL",[COLOR yellow][I][B]RTP 1[/B][/I][/COLOR]
+https://streaming-live.rtp.pt/liverepeater/smil:rtp1.smil/chunklist_b640000_slpt.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36&Referer=http://www.rtp.pt/play
+#EXTINF:-1 tvg-id="RTP2" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/4d/Rtp2_2016_logo.png/250px-Rtp2_2016_logo.png" group-title="PORTUGAL",[COLOR yellow][I][B]RTP 2[/B][/I][/COLOR]
+https://streaming-live.rtp.pt/liverepeater/smil:rtp2.smil/chunklist_b640000_slpt.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36&Referer=http://www.rtp.pt/play
+
+#EXTINF:-1 tvg-id="SIC" tvg-logo="https://www.thelogodb.com/images/media/logo/uqqyxw1436843634.png/medium" group-title="PORTUGAL",[COLOR yellow][I][B]SIC[/B][/I][/COLOR]
+http://62.210.124.106:8000/live/aplicacao/scp4ever/4.ts
+#EXTINF:-1 tvg-id="TVI" tvg-logo="http://www.thelogodb.com/images/media/logo/cdi6t51487621667.png/medium" group-title="PORTUGAL",[COLOR yellow][I][B]TVI[/B][/I][/COLOR]
+http://62.210.124.106:8000/live/aplicacao/scp4ever/5.ts
+
+#EXTINF:-1 tvg-id="" tv-logo="",[COLOR cyan]» »ESPANHA « «[/COLOR]
+http://0.0.0.0:1234
+
+#EXTINF:-1 tvg-id="Andalucía TV" tvg-logo="https://pngimage.net/wp-content/uploads/2018/05/canal-sur-png-4.png" group-title="ESPANHA",[COLOR cyan][I][B]Andalucía TV [/B][/I][/COLOR]
+http://127.0.0.1:60666/?plugin://plugin.video.youtube/?action=play_video&videoid=6-QJmggFx7I
+#EXTINF:-1 tvg-id="Galicia TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/46/Television_de_Galicia.svg/1920px-Television_de_Galicia.svg.png" group-title="ESPANHA",[COLOR cyan][I][B]TV Galicia [/B][/I][/COLOR]
+http://europa-crtvg.flumotion.com/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tv-logo="",[COLOR orange]» »BRASIL « «[/COLOR]
+http://0.0.0.0:1234
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/c/c7/Logotipo_da_Record_News_%282016%29.png/200px-Logotipo_da_Record_News_%282016%29.png" group-title="BRASIL",[COLOR orange][I][B]RECORD TV NEWS [/B][/I][/COLOR]
+http://stmv4.euroti.com.br:1935/recordnewses/recordnewses/live.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/4/41/Logotipo_do_SBT.svg/200px-Logotipo_do_SBT.svg.png" group-title="BRASIL",[COLOR orange][I][B]SBT [/B][/I][/COLOR]
+http://192.99.46.182:1935/pioneira-tv3/pioneira-tv3/live.m3u8
+
+#EXTINF:-1 tvg-id="" tv-logo="",[COLOR red]» »ALEMANHA « «[/COLOR]
+http://0.0.0.0:1234
+
+#EXTINF:-1 tvg-name="Das Erste" tvg-id="Das Erste" group-title="Vollprogramm, Dreck" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/daserstehd.png",Das Erste HD
+https://daserstehdde-lh.akamaihd.net/i/daserstehd_de@629196/index_3776_av-p.m3u8
+#EXTINF:-1 tvg-name="ZDF HD" tvg-id="ZDF" group-title="Vollprogramm" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/zdfhd.png",ZDF HD
+https://zdf1314-lh.akamaihd.net/i/de14_v1@392878/index_3096_av-b.m3u8
